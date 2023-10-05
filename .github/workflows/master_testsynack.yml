@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'testsynack'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D9C410316BCE4D009FEF4033391A1320 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F83503290F31442E913EA9F1FB775BAF }}
