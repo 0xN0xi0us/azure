@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "<html><!--Takeover by n0xi0us--> </html>"
+    return "<html><!--Takeover by mjgabal--> </html>"
